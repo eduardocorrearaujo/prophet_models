@@ -1,0 +1,10 @@
+,geocode,params,best_rmse
+0,2704302,"{'n_lags': 8, 'n_changepoints': 20, 'learning_rate': 0.005527473369932796, 'ar_layers': [32, 32, 32], 'ar_reg': 0.37978827597005266, 'seasonality_mode': 'additive'}",166.46568976399897
+1,2927408,"{'n_lags': 40, 'n_changepoints': 15, 'learning_rate': 0.00816406642682744, 'ar_layers': [32, 32, 32, 32, 32], 'ar_reg': 0.5234788851786984, 'seasonality_mode': 'multiplicative'}",21.762376331983692
+2,2111300,"{'n_lags': 8, 'n_changepoints': 22, 'learning_rate': 0.00853912764814125, 'ar_layers': [16, 16, 16, 16, 16, 16], 'ar_reg': 0.871880877882447, 'seasonality_mode': 'additive'}",30.012325777418468
+3,2211001,"{'n_lags': 40, 'n_changepoints': 16, 'learning_rate': 0.00895242745754248, 'ar_layers': [8, 8, 8, 8], 'ar_reg': 0.03586591198191346, 'seasonality_mode': 'multiplicative'}",183.7892460267616
+4,2800308,"{'n_lags': 8, 'n_changepoints': 15, 'learning_rate': 0.009415316142288747, 'ar_layers': [8, 8, 8, 8], 'ar_reg': 0.9445980363985107, 'seasonality_mode': 'additive'}",45.83199159516813
+5,2408102,"{'n_lags': 8, 'n_changepoints': 19, 'learning_rate': 0.008588565102847593, 'ar_layers': [8, 8, 8, 8], 'ar_reg': 0.20761635644612797, 'seasonality_mode': 'additive'}",138.85921175164154
+6,2304400,"{'n_lags': 40, 'n_changepoints': 18, 'learning_rate': 0.007296240400757789, 'ar_layers': [8, 8, 8, 8], 'ar_reg': 0.5188372532278511, 'seasonality_mode': 'additive'}",565.9264283228531
+7,2507507,"{'n_lags': 8, 'n_changepoints': 18, 'learning_rate': 0.009567055622090728, 'ar_layers': [32, 32, 32, 32, 32], 'ar_reg': 0.007481610210375772, 'seasonality_mode': 'additive'}",172.32269347232094
+8,2611606,"{'n_lags': 8, 'n_changepoints': 17, 'learning_rate': 0.005137700816231921, 'ar_layers': [16, 16, 16, 16, 16, 16], 'ar_reg': 0.4974768477827979, 'seasonality_mode': 'additive'}",220.98944709768102
